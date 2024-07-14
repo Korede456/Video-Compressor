@@ -1,0 +1,3 @@
+title=Video Compressor
+author=Korede Odeyemi
+orientation=portrait
